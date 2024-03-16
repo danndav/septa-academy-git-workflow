@@ -1,1 +1,1 @@
-console.log["this is a forgetpassword page"]
+console.log("this is a forgetpassword page")
