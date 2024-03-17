@@ -1,4 +1,4 @@
-const fullName = "David Daniel"
+const fullName = "ojo kunle"
 const state = "Lagos"
 const country = "Nigeria"
 
